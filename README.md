@@ -1,2 +1,2 @@
-# MySQL-with-PDO
-using PDO
+# MySQL-with-mysqli
+using mysqli
